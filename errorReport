@@ -10,4 +10,3 @@ Validation errors:
 6. Accepts passwords without any Complexity (uppercase, lowercase, special characters, numbers).
 7. Needs password matching field
 8. Accepts non-english alphabet as username and email. ex: user/pass = "سهیلا"
-9. 
