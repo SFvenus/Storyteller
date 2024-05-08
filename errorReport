@@ -1,0 +1,13 @@
+Errors:
+
+Validation errors:
+
+1. Accepts empty username. ex: user = "    "
+2. Accepts empty character password. ex: pass = " "
+3. Accepts just numbers as a username. ex: user = "123"
+4. Accepts both "a" with "a@gmail.com" and "A" with "A@gmail.com" as two different users. (accept users just as lowercase/uppercase.)
+5. Does not check if email is in correct email format. ex: accepts email = "Soha!%$"
+6. Accepts passwords without any Complexity (uppercase, lowercase, special characters, numbers).
+7. Needs password matching field
+8. Accepts non-english alphabet as username and email. ex: user/pass = "سهیلا"
+9. 
